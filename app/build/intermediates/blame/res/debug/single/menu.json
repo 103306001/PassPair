@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home_page.xml",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\menu\\menu_home_page.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_page.xml",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\menu\\home_page.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_friend_page.xml",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\menu\\menu_friend_page.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_page_drawer.xml",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\menu\\activity_home_page_drawer.xml"
+    }
+]

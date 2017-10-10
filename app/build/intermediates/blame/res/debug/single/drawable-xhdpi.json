@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gift_manu.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_gift_manu.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_mission_undone.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_mission_undone.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_message.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_message.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_friend_page.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_friend_page.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_friend_decline.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_friend_decline.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_answer.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_answer.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_call.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_post_upload.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_post_upload.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_mission_complete.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_mission_complete.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_friend_add.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_friend_add.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_hangup.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_hangup.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_distance.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\drawable-xhdpi\\ic_distance.png"
+    }
+]

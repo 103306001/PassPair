@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]

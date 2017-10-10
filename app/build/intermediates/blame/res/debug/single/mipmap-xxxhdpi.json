@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_passpair_launch.png",
+        "source": "D:\\passpairmaster\\Final\\PassPair\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_passpair_launch.png"
+    }
+]

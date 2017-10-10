@@ -1,0 +1,4 @@
+#Mon Jun 05 02:17:15 CST 2017
+base.0=D\:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=D\:\\passpairmaster\\Final\\PassPair\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
